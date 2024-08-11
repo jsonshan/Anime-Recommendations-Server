@@ -1,3 +1,2 @@
-# Anime-Recommendations-Server
-
-Server for client to run on
+# Anime-Recommendations
+Server for the client to run on
